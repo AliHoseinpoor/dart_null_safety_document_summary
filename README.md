@@ -1,2 +1,3 @@
-# dart_null_safety_document_summary
-خلاصه تمام ویژگی ها و قابلیت های null safety در زبان dart
+# Dart Null Safety Document Summary
+
+یه فایل برات آماده کردم تا بتونی تمام ویژگی های Null Safety رو یه جا و به صورت خلاصه داشته باشی :)
